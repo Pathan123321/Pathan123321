@@ -80,7 +80,7 @@ Digital platform for distributing resources & reducing waste.
 <p align="center">
   <a href="https://github.com/Pathan123321"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.linkedin.com/in/pathan-baba-fakruddin/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.instagram.com/pathan__"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.instagram.com/pathan.x_"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
